@@ -1,4 +1,4 @@
-# Zed Zen browsser theme
+# Zed Zen browser theme
 
 > A fork of [zen wireframe fork](https://github.com/undefinedcode0/zen-wireframe) by undefinedcode0 as a new repo for visibility with just the catppucin color scheme and a few changes to the urlbar
 
